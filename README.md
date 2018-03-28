@@ -1,1 +1,1 @@
-# SDChain(Six Domain Chain) whiterpaper
+# SDChain(Six Domain Chain) white paper
